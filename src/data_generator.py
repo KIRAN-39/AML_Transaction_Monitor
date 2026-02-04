@@ -17,7 +17,7 @@ np.random.seed(42)
 random.seed(42)
 
 class TransactionGenerator:
-    def __init__(self, num_users=1000, num_transactions=50000):
+    def __init__(self, num_users=1000, num_transactions=10):
         self.num_users = num_users
         self.num_transactions = num_transactions
         self.users = []

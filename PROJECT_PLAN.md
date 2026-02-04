@@ -1,4 +1,4 @@
-Project Objective: What are you building?
+Project Objective: 
 
 "Build a proof-of-concept AML system that detects suspicious transactions using rule-based and ML approaches"
 
@@ -9,7 +9,7 @@ Dataset: 50,000-100,000 transactions
 7-10 detection rules
 2-3 ML models (Isolation Forest, Clustering, one more)
 Interactive dashboard
-Timeline: 10-12 weeks
+Timeline: 1 week
 
 
 Tech Stack Confirmation:
@@ -19,6 +19,3 @@ Database: SQLite (easy) or PostgreSQL (professional)
 ML: Scikit-learn
 Dashboard: Streamlit
 Version Control: Git/GitHub
-
-
-Weekly Milestones: Break down 12 weeks roughly
