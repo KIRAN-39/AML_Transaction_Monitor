@@ -158,7 +158,7 @@ MIT License - see LICENSE file
 
 ## 👨‍💻 Author
 
-**[Your Name]**
+**Kiran B Nambiar**
 - GitHub: [@KIRAN-39](https://github.com/KIRAN-39)
 - Email: kbn2024is@example.com
 
